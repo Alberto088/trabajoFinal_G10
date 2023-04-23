@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e441ca6c-3a55-4134-bf5b-9b46b9223bb6" name="Changes" comment="trabajoFinal_G10">
+      <changelist_data name="Alberto" email="" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alberto" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NuY9pcnJ6EEPbRFgOFqZG9LQWr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "false",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Alberto/Desktop/trabajoFinal_G10",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vlad\OneDrive - Universidad de Castilla-La Mancha\Escritorio\EntregaFinal_G10\FrontEnd_G10\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StartLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartLine" />
+      <module name="FrontEnd_G10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartLine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e441ca6c-3a55-4134-bf5b-9b46b9223bb6" name="Changes" comment="" />
+      <created>1680515285962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680515285962</updated>
+      <workItem from="1680515287602" duration="105000" />
+      <workItem from="1680520173372" duration="33000" />
+      <workItem from="1680520255262" duration="235000" />
+      <workItem from="1680520673964" duration="67000" />
+      <workItem from="1680520762536" duration="46000" />
+      <workItem from="1680520845188" duration="830000" />
+      <workItem from="1680522099775" duration="6000" />
+      <workItem from="1680523099109" duration="3709000" />
+      <workItem from="1680527803880" duration="1293000" />
+      <workItem from="1680529323902" duration="567000" />
+      <workItem from="1680529945719" duration="444000" />
+      <workItem from="1680530653644" duration="121000" />
+      <workItem from="1680531305609" duration="52000" />
+      <workItem from="1680531480081" duration="194000" />
+      <workItem from="1680531754071" duration="1227000" />
+      <workItem from="1680534301682" duration="454000" />
+      <workItem from="1680552685139" duration="3550000" />
+      <workItem from="1680556971253" duration="28000" />
+      <workItem from="1680602177288" duration="629000" />
+      <workItem from="1680705599523" duration="9000" />
+      <workItem from="1681065954222" duration="1046000" />
+      <workItem from="1681117687387" duration="22000" />
+      <workItem from="1681204828662" duration="657000" />
+      <workItem from="1681206441746" duration="2132000" />
+      <workItem from="1681211457041" duration="55000" />
+      <workItem from="1681227726856" duration="318000" />
+      <workItem from="1681240230680" duration="686000" />
+      <workItem from="1681297770436" duration="42000" />
+      <workItem from="1681373001857" duration="31000" />
+      <workItem from="1681634497554" duration="455000" />
+      <workItem from="1681719082624" duration="12000" />
+      <workItem from="1681722283690" duration="207000" />
+      <workItem from="1681824067635" duration="1056000" />
+    </task>
+    <task id="LOCAL-00001" summary="trabajoFinal_G10">
+      <created>1681066258514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681066258514</updated>
+    </task>
+    <task id="LOCAL-00002" summary="trabajoFinal_G10">
+      <created>1681240321148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681240321148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trabajoFinal_G10" />
+    <option name="LAST_COMMIT_MESSAGE" value="trabajoFinal_G10" />
+  </component>
+</project>
