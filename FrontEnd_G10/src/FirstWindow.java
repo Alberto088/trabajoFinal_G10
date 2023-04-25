@@ -33,6 +33,9 @@ public class FirstWindow extends JFrame implements Serializable {
     private JTextArea textArea2;
     private JTextField textField7;
     private JTextField textfield;
+    private JButton checkeoAduanasButton;
+    private JTextField textField8;
+    private JTextField textField9;
     private Carguero c;
     private boolean aduanas = false;
     FileInputStream fis = null;
@@ -115,6 +118,12 @@ public class FirstWindow extends JFrame implements Serializable {
                 SecondWindow sw = new SecondWindow(c.mostrarContenedor(Integer.parseInt(textField6.getText())), aduanas);
             }
         });
+        checkeoAduanasButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                NuevaVentana sw = new NuevaVentana(c.toneladas(Integer.parseInt(textField8.getText()), Integer.parseInt(textField9.getText())));
+            }
+        });
         apilarButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -136,7 +145,7 @@ public class FirstWindow extends JFrame implements Serializable {
                     if(a3RadioButton.isSelected())
                         x=3;
                     Contenedor cont = new Contenedor(Integer.parseInt(textField1.getText()),x,Double.parseDouble(textField2.getText()),
-                            (String)comboBox1.getSelectedItem(), textArea1.getText(), textField3.getText(), textField4.getText());
+                            (String)comboBox1.getSelectedItem(), textArea1.getText(), textField3.getText(), textField4.getText(), inspeccionadoEnAduanasCheckBox.isSelected());
                     c.apilarContenedor(cont);
                     textArea2.setText(c.toString());
                     try {
