@@ -94,15 +94,21 @@ public class FirstWindow extends JFrame implements Serializable {
         FileInputStream fis = null;
         ObjectInputStream entrada = null;
         ///////////Lectura///////////////
-        fis = new FileInputStream("puerto.dat");
-        entrada = new ObjectInputStream(fis);
-        c = (Carguero) entrada.readObject();
-        /////////////Cierre//////////////
-        fis.close();
-        entrada.close();
+        try {
+            fis = new FileInputStream("puerto.dat");
+            entrada = new ObjectInputStream(fis);
+            c = (Carguero) entrada.readObject();
+            /////////////Cierre//////////////
+            fis.close();
+            entrada.close();
+        } catch (Exception e){
+
+            c = new Carguero();
+        }
         ////////////////////////////////
         textArea2.setText(c.toString());
         ////////////////////////////////
+
         mostrarDatosContenedorButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
